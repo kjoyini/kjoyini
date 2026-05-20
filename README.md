@@ -1,16 +1,24 @@
-## Hi there 👋
+# About me
 
-<!--
-**kjoyini/kjoyini** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+# Kemello Joyini
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Business Analytics MSc student interested in infrastructure, energy systems, macroeconomic risk, and global capital allocation.
+
+## Focus Areas
+- Infrastructure & energy-transition analysis
+- Macroeconomic and sovereign risk modelling
+- Data analytics and visualisation using Python
+- Complex systems and long-term economic resilience
+
+## Current Work
+- Economic sustainability risk modelling
+- Energy-transition investment analysis
+- Macroeconomic and infrastructure datasets
+
+## Technical Stack
+Python • Pandas • NumPy • Matplotlib • Seaborn • Plotly • Scikit-learn • TensorFlow • SQL • Snowflake • Jupyter
+
+## Analytical Methods
+Regression • Classification • Feature Engineering • Risk Scoring • Data Visualisation • EDA • Statistical Analysis
+
